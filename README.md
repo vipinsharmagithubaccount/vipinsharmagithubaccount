@@ -1,6 +1,7 @@
 # Hi, I'm Vipin Sharma 👋
 
 Frontend Developer specializing in React and modern web technologies.
+- Gurugram, India
 
 ## Tech Stack
 - React
@@ -15,3 +16,5 @@ React + TypeScript project demonstrating recursive UI rendering, drag-and-drop s
 
 Live Demo: https://tree-view-kanban-board.vercel.app  
 GitHub: https://github.com/vipinsharmagithubaccount/tree-view-kanban-board
+## Connect with me
+LinkedIn: https://linkedin.com/in/vipin-sharma-7x
