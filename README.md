@@ -21,6 +21,6 @@ LinkedIn: https://linkedin.com/in/vipin-sharma-7x
 
 ## GitHub Stats
 
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipinsharmagithubaccount&show_icons=true&theme=default)
+![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipinsharmagithubaccount&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinsharmagithubaccount&layout=compact)
